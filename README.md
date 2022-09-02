@@ -1,1 +1,1 @@
-# rsschool-cv
+https://nitex-oren.github.io/rsschool-cv/cv
