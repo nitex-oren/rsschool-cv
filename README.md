@@ -1,1 +1,1 @@
-https://nitex-oren.github.io/rsschool-cv/cv
+https://nitex-oren.github.io/rsschool-cv/
