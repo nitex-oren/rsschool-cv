@@ -1,10 +1,11 @@
 # Hello!
 
 ![Hello Hello](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-***
+
+*****
 My name is **Evgeny Pavlov**. I'm currently studying to be a Frontend developer. I stydy  _HTML,CSS, JavaScript, React, Git, Linux_ and other interesting technologies.
 
----------------------------------------
+*****
 
 ## Languages and Tools:
 *  **HTML5**
@@ -12,7 +13,7 @@ My name is **Evgeny Pavlov**. I'm currently studying to be a Frontend developer.
 *  **GIT** 
 *  **JavaScript (beginner)**
 *  **react (beginner)**
----------------------------------------
+*****
 ## My tasks for the near future:
 
 - [x] Create and upgrade my profile on the  Github.com
@@ -45,11 +46,12 @@ const renderGoodsList = (list) => {
 
 renderGoodsList(goods);
 ```
+
 *****
 ## My contacts:
-Phone: +7-111-111-11-11 (it not real number)
-E-mail: nitex82@gmail.com
-Discord (RS school): Evgeny Pavlov (@nitex-oren) 
+* Phone: +7-111-111-11-11 (it not real number)
+* E-mail: nitex82@gmail.com
+* Discord (RS school): Evgeny Pavlov (@nitex-oren) 
 *****
 ## Education:
 * Graduated from OSPU (Orenburg, Russia), computer science teacher
