@@ -1,33 +1,61 @@
-## Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://vk.com/your_profile">
-  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
-</a>
+# Hello!
 
-<br />
+![Hello Hello](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+***
+My name is **Evgeny Pavlov**. I'm currently studying to be a Frontend developer. I stydy  _HTML,CSS, JavaScript, React, Git, Linux_ and other interesting technologies.
 
-Привет, меня зовут # Evgeny Pavlov, я cейчас учусь на frontend-разработчика. Изучаю HTML,CSS, JavaScript, React, Git, Linux и ещё несколько интересных технологий.
+---------------------------------------
 
-<br />
+## Languages and Tools:
+*  **HTML5**
+*  **CSS3/SASS**
+*  **GIT** 
+*  **JavaScript (beginner)**
+*  **react (beginner)**
+---------------------------------------
+## My tasks for the near future:
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
-  
-**Languages and Tools:**  
+- [x] Create and upgrade my profile on the  Github.com
+- [x] Finish the coursee "Basic Linux Administration" on Slurm.io
+- [x] Create first project on Github
+- [x] Finish the coursee "GIT" on Slurm.io
+- [x] Finish the coursee "Linux for Developer" on Slurm.io
+- [ ] Learn how to make high-quality layout)
+- [ ] Finish the coursee Javascript on learn.javascript.ru
+- [ ] Finish the coursee «JavaScript/Front-end» in RS School 
+- [ ] Finish the coursee "Development on React" in RS School
+*****
+## Code example:
+```
+const goods = [
+  { title: 'Shirt', price: 150 },
+  { title: 'Socks', price: 50 },
+  { title: 'Jacket', price: 350 },
+  { title: 'Shoes', price: 250 },
+];
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+const renderGoodsItem = (title, price) => {
+  return `<div class='goods-item'><h3>${title}</h3><p>${price}</p></div>`;
+};
 
-🚧 **Мои задачи на ближайшее время:**
-<!-- TODO-IST:START -->
-* [x] Прокачать свой профиль на Github
-* [x] Пройти курс "Базовое администрирование Linux на Slurm
-* [x] Создать свой первый проект на Github       
-* [x] Пройти курс по Git на Slurm
-* [x] Пройти курс по Linux for Developer на Slurm
-* [ ] Научиться качественно верстать)
-* [ ] Пройти курс Javascript на learn.javascript.ru 
-* [ ] Успешно пройти курс Разработка на React · RS School 2022Q3
-* [ ] Закончить обучение на GeekBrains.ru по профессии Frontend-разработчик
-<!-- TODO-IST:END -->
+const renderGoodsList = (list) => {
+  let goodsList = list.map(item => renderGoodsItem(item.title, item.price));
+  document.querySelector('.goods-list').innerHTML = goodsList;
+}
+
+renderGoodsList(goods);
+```
+*****
+## My contacts:
+Phone: +7-111-111-11-11 (it not real number)
+E-mail: nitex82@gmail.com
+Discord (RS school): Evgeny Pavlov (@nitex-oren) 
+*****
+## Education:
+* Graduated from OSPU (Orenburg, Russia), computer science teacher
+* Self-taught in various free courses (for example Glo-Academy, Slurm.io, HTMLAcademy)
+*****
+## Languages
+* Russian - native speaker.
+* English - A2 (B1 in process…)
+
